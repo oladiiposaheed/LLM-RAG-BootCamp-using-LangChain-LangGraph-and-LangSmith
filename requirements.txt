@@ -9,7 +9,6 @@ sentence-transformers
 pypdf
 python-dotenv
 pymupdf
-unstructured
 unstructured[docx]
 pdfminer.six
 python-docx
@@ -25,3 +24,8 @@ langchain-experimental
 pydantic==2.9.2
 rank_bm25
 ipykernel
+transformers
+langchain-anthropic
+langchain-google-genai
+langgraph
+langchain-core
